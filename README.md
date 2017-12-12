@@ -3,5 +3,5 @@ A React Native app that lists Jokes in Tinder card swipe manner from the Chuck N
 
 ## Install all the dependencies
 ```
-npm insall
+npm install
 ```
